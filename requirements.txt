@@ -1,34 +1,14 @@
-# Core Streamlit Framework
-streamlit>=1.28.0
-
-# Data Processing and Analysis
-pandas>=2.0.0
-numpy>=1.24.0
-
-# Data Visualization
-plotly>=5.15.0
-
-# Date and Time Handling
-python-dateutil>=2.8.2
-
-# Additional Utilities (Optional but recommended)
-scipy>=1.10.0
-scikit-learn>=1.3.0
-
-# Development and Testing (Optional)
-pytest>=7.4.0
-pytest-streamlit>=0.1.0
-
-# For better performance (Optional)
-pyarrow>=12.0.0
-
-# For enhanced styling (Optional)
-streamlit-option-menu>=0.3.6
-streamlit-aggrid>=0.3.4
-
-# For better data handling (Optional)
-openpyxl>=3.1.0
-xlsxwriter>=3.1.0
-
-# System requirements
-# Python>=3.8
+streamlit
+pandas
+numpy
+plotly
+python-dateutil
+scipy
+scikit-learn
+pytest
+pytest-streamlit
+pyarrow
+streamlit-option-menu
+streamlit-aggrid
+openpyxl
+xlsxwriter

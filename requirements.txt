@@ -2,12 +2,5 @@ streamlit
 pandas
 numpy
 plotly
-python-dateutil
 scipy
-scikit-learn
-pytest
-pytest-streamlit
 pyarrow
-streamlit-option-menu
-streamlit-aggrid
-openpyxl

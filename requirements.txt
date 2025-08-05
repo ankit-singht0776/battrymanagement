@@ -11,4 +11,3 @@ pyarrow
 streamlit-option-menu
 streamlit-aggrid
 openpyxl
-xlsxwriter
